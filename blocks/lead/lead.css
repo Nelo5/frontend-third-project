@@ -1,0 +1,18 @@
+.lead {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+}
+
+@media  all and (min-width:1024px) {
+    .lead {
+        max-width: 91%;
+        margin:0 auto
+    }
+}
+@media  all and (min-width:1280px) {
+    .lead {
+        max-width: 77%;
+        margin:0 auto
+    }
+}

@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 93%;
+    margin: 90px auto 24px auto;
+}
+
+
+@media all and (max-width:767px) {
+    .footer{
+        flex-direction: column;
+        row-gap: 47px;
+        margin-top: 64px;
+    }
+}

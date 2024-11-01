@@ -1,0 +1,11 @@
+.cover {
+    max-width: 100%;
+}
+
+@media all and (min-width:1280px) {
+    .cover {
+        max-width: 93%;
+        margin: 0 auto;
+    }
+}
+  

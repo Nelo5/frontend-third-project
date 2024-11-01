@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+    min-width: 93%;
+    margin: 28px auto 48px auto;
+}
+
+
+@media all and (max-width:767px) {
+    .header{
+        margin-top: 16px;
+    }
+}

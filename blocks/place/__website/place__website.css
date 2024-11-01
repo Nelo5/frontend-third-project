@@ -1,0 +1,13 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    align-self: end;
+}
+
+@media all and (max-width:767px) {
+    .place__website{
+        max-width: 90%;
+        margin:0 16px;
+    }
+}

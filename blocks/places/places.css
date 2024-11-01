@@ -1,0 +1,26 @@
+.places {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 80px;
+    margin: 65px 0;
+}
+
+@media  all and (min-width:768px) {
+    .places {
+        max-width: 93%;
+        margin:90px auto;
+    }
+}
+
+@media  all and (min-width:1024px) {
+    .places {
+        max-width: 91%;
+    }
+}
+
+@media  all and (min-width:1280px) {
+    .places {
+        max-width: 77%;
+    }
+}
