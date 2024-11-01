@@ -4,7 +4,7 @@
     row-gap: 26px;
 }
 
-@media all and (max-width: 767px) {
+@media all and (max-width: 424px) {
     .place__text{
         max-width: 90%;
         margin:0 16px;

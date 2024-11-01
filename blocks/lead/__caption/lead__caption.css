@@ -8,13 +8,13 @@
     letter-spacing: 1.5px;   
 }
 
-@media all and (max-width:1024px) {
+@media all and (max-width:1023px) {
     .lead__caption {
         margin-left: 24px; 
     }
 }
 
-@media all and (max-width:768px) {
+@media all and (max-width:424px) {
     .lead__caption {
         margin-left: 18px; 
     }

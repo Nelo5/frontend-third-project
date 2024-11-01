@@ -6,7 +6,7 @@
     margin: 65px 0;
 }
 
-@media  all and (min-width:768px) {
+@media  all and (min-width:425px) {
     .places {
         max-width: 93%;
         margin:90px auto;

@@ -8,7 +8,7 @@
 }
 
 
-@media all and (max-width:767px) {
+@media all and (max-width:424px) {
     .header{
         margin-top: 16px;
     }
